@@ -1,3 +1,8 @@
+> NOT A CIDCOM PAPER
+>
+> This paper was found during work on the HANNAH Spanish bolus project, with some useful exploration of pressure data for detecting rumination, eating, drinking, and sleeping.
+> This was forked into CIDCOM to allow sharing of our tweaks and additional analysis on top of the original.
+
 # Pressure measurement in the reticulum to detect different behaviors of healthy cows
 
 See notebook.ipynb for statistical analysis
